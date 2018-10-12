@@ -20,3 +20,14 @@ C:\Users\user\Desktop\練習\OpenData\OpenData\obj\Debug\netcoreapp2.0\OpenData.
 C:\Users\user\Desktop\練習\OpenData\OpenData\obj\Debug\netcoreapp2.0\OpenData.AssemblyInfo.cs
 C:\Users\user\Desktop\練習\OpenData\OpenData\obj\Debug\netcoreapp2.0\OpenData.dll
 C:\Users\user\Desktop\練習\OpenData\OpenData\obj\Debug\netcoreapp2.0\OpenData.pdb
+C:\Users\user\Source\Repos\XML\OpenData\OpenData\bin\Debug\netcoreapp2.0\OpenData.deps.json
+C:\Users\user\Source\Repos\XML\OpenData\OpenData\bin\Debug\netcoreapp2.0\OpenData.runtimeconfig.json
+C:\Users\user\Source\Repos\XML\OpenData\OpenData\bin\Debug\netcoreapp2.0\OpenData.runtimeconfig.dev.json
+C:\Users\user\Source\Repos\XML\OpenData\OpenData\bin\Debug\netcoreapp2.0\OpenData.dll
+C:\Users\user\Source\Repos\XML\OpenData\OpenData\bin\Debug\netcoreapp2.0\OpenData.pdb
+C:\Users\user\Source\Repos\XML\OpenData\OpenData\obj\Debug\netcoreapp2.0\OpenData.csprojAssemblyReference.cache
+C:\Users\user\Source\Repos\XML\OpenData\OpenData\obj\Debug\netcoreapp2.0\OpenData.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\XML\OpenData\OpenData\obj\Debug\netcoreapp2.0\OpenData.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\XML\OpenData\OpenData\obj\Debug\netcoreapp2.0\OpenData.AssemblyInfo.cs
+C:\Users\user\Source\Repos\XML\OpenData\OpenData\obj\Debug\netcoreapp2.0\OpenData.dll
+C:\Users\user\Source\Repos\XML\OpenData\OpenData\obj\Debug\netcoreapp2.0\OpenData.pdb

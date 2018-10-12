@@ -22,8 +22,17 @@ namespace XML_Analysis
             var xml = XElement.Load(@"F:\github\Messages.xml");
 
             var Ebhsdata_count = xml.Descendants("item").ToList();
+            Ebhsdata_count.ToList()
+               .ForEach(Ebhsdata =>
+            {
+                OpenData item = new OpenData();
 
-            for (var i = 0; i < Ebhsdata_count.Count; i++)
+                item.標題 = getValue(Ebhsdata, "title");
+                item.位置 = getValue(Ebhsdata, "link");
+                result.Add(item);
+            });
+        
+            /*for (var i = 0; i < Ebhsdata_count.Count; i++)
             {
                 var Ebhsdata = Ebhsdata_count[i];
                 OpenData item = new OpenData();
@@ -31,7 +40,7 @@ namespace XML_Analysis
                 item.標題 = getValue(Ebhsdata, "title");
                 item.位置 = getValue(Ebhsdata, "link");
                 result.Add(item);
-            };
+            };*/
 
 
             return result;
@@ -45,6 +54,7 @@ namespace XML_Analysis
         public static void ShowOpenData(List<OpenData> Ebhsdata_count)
         {
             Console.WriteLine(string.Format("共收到{0}筆的資料 ", Ebhsdata_count.Count));
+
             for (var i = 0; i < Ebhsdata_count.Count; i++)
             {
                 var Ebhsdata = Ebhsdata_count[i];
